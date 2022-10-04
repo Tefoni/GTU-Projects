@@ -1,1 +1,1 @@
-# GTU-Homeworks
+# GTU-Projects
