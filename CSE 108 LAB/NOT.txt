@@ -1,0 +1,11 @@
+Lab1	90
+Lab2	70
+Lab3	100
+Lab4	100
+Lab5	90
+Lab6	55
+Lab7	95
+Lab8	58
+Lab9	90
+Lab10	100
+Lab11	85
